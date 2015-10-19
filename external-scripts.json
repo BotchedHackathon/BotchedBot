@@ -10,5 +10,10 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-troll",
-  "hubot-mimic"
+  "hubot-mimic",
+  "hubot-sentiment",
+  "hubot-slack-vote",
+  "hubot-spotify-search",
+  "hubot-stackoverflow-search",
+  "hubot-wikipedia"
 ]
